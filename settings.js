@@ -1,18 +1,18 @@
-//𝑩𝒂𝒔𝒆 𝑩𝒚 𝑻𝒐𝒙𝒙𝒊𝒄 
+//𝑩𝒂𝒔𝒆 𝑩𝒚 𓆩ᬼ⃟𝗚𝗢𝗗Kᴀᴍᴀᴅo 𝑳𝑼𝑪𝑰𝑭𝑬𝑹𝑼𝑺❟❛❟ 
 // 𝑫𝒐𝒏𝒕 𝑪𝒍𝒐𝒏𝒆
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348165846414"
-global.ownername = "𝑻𝒐𝒙𝒙𝒊𝒄 𝑩𝒐𝒚"
+global.ownernomer = "24177059320"
+global.ownername = "𓆩ᬼ⃟𝗚𝗢𝗗Kᴀᴍᴀᴅo 𝑳𝑼𝑪𝑰𝑭𝑬𝑹𝑼𝑺❟❛❟"
 global.ytname = "YT: ToxxicTech"
 global.socialm = "GitHub: Toxic1239"
-global.location = "Nigeria"
+global.location = "gabon"
 
-global.ownernumber = '2348165846414'  //creator number
-global.ownername = '𝑻𝒐𝒙𝒙𝒊𝒄 𝑻𝒆𝒄𝒉' //owner name
+global.ownernumber = '24177059320'  //creator number
+global.ownername = 'kamado' //owner name
 global.botname = '𝒁𝒆𝒏𝒐𝒏 𝒁𝒐𝒈𝒓𝒂𝒕𝒊𝒔' //name of the bot
 
 // MENU TYPE
@@ -30,7 +30,7 @@ global.typemenu = 'v1'
 
 //sticker details
 global.packname = '𝒁𝒆𝒏𝒐𝒏 𝑾𝒊𝒍𝒍 𝑪𝒓𝒂𝒔𝒉 𝑨𝒍𝒍'
-global.author = '𝑴𝒂𝒅𝒆 𝑩𝒚 𝑻𝒐𝒙𝒙𝒊𝒄'
+global.author = '𝑴𝒂𝒅𝒆 𝑩𝒚 kamado'
 
 //console view/theme
 global.themeemoji = '🤯'
@@ -47,8 +47,8 @@ global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = false //auto update bio
-global.anti92 = false //auto block +92 
+global.autobio = true //auto update bio
+global.anti92 = true //auto block +92 
 global.autoswview = false //auto view status/story
 
 //text bug
